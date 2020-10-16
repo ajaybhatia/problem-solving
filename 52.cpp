@@ -18,7 +18,7 @@ int main()
 	int score = 0;
 	duration<double> elapsed_seconds;
 
-	for (int i = 1; i <= 3; i++)
+	for (int i = 1; i <= 5; i++)
 	{
 		int randNumber1 = randint(0, 100);
 		int randNumber2 = randint(0, 100);
